@@ -1,1 +1,1 @@
-# .github
+# :recycle: ReCo - Recycle Companion 
